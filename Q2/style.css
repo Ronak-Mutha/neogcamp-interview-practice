@@ -1,0 +1,14 @@
+* {
+  padding: 0.5rem;
+  margin: 0.3rem;
+}
+
+main {
+    display:grid;
+    place-items: center;
+}
+
+input,
+label {
+  display: block;
+}
