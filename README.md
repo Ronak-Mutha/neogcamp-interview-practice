@@ -3,6 +3,6 @@
 
 __Languages/ Packages used__ - HTML, CSS, JavaScript, and readline-sync package for CLI apps.
 
-Learnt about DOM manipulation and played around objects in JavaScript. This
+Learnt about DOM manipulation and played around objects in JavaScript.
 
 __TODOs / Further upgrades__ - Try to solve same questions using react to get better understanding at React.
